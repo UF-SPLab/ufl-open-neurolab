@@ -3,9 +3,9 @@ project:
 
 website: 
   page-navigation: true
-  title: "NOAA quarto simple" 
-  site-url: "https://nmfs-opensci.github.io/NOAA-quarto-simple" 
-  repo-url: "https://github.com/nmfs-opensci/NOAA-quarto-simple"
+  title: "SPL quarto simple" 
+  site-url: "https://uf-splab.github.io/SPL-quarto-simple/" 
+  repo-url: "https://github.com/UF-SPLab/SPL-quarto-simple/"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
