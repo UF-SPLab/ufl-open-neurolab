@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "SPL quarto simple" 
-  site-url: "https://uf-splab.github.io/SPL-quarto-simple/" 
-  repo-url: "https://github.com/UF-SPLab/SPL-quarto-simple/"
+  site-url: "https://uf-splab.github.io/ufl-open-neurolab/" 
+  repo-url: "https://github.com/UF-SPLab/ufl-open-neurolab/"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
